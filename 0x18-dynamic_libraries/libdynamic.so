@@ -1,0 +1,8 @@
+// dynamic.c
+#include <stdio.h>
+
+void dynamic_function() {
+    printf("Hello from dynamic library!\n");
+}
+
+
